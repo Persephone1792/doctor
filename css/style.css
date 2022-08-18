@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 html {
-	overflow: auto;
+	overflow-y: scroll;
 }
 
 body {
